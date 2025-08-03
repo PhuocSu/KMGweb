@@ -1,0 +1,1452 @@
+
+15:46:50 INFO  HeaderTest - Bắt đầu testcase: buyMyCarBtn_Test
+15:46:50 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:46:50 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:46:50 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:54:19 INFO  HeaderTest - Bắt đầu testcase: buyMyCarBtn_Test
+15:54:19 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:54:19 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:54:19 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:55:28 INFO  HeaderTest - Bắt đầu testcase: buyMyCarBtn_Test
+15:55:28 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:55:28 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:55:28 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:55:38 INFO  HeaderTest - Bắt đầu testcase: buyMyCarBtn_Test
+16:03:09 INFO  HeaderTest - Bắt đầu testcase: buyMyCarBtn_Test
+16:03:09 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:03:09 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:03:09 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:11:01 INFO  HeaderTest - Bắt đầu testcase: buyMyCarBtn_Test
+16:16:19 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:16:19 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:16:19 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:16:19 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:17:34 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:17:34 INFO  LoginTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:17:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:17:37 INFO  LoginTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:17:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:17:41 INFO  LoginTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:20:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:20:04 INFO  LoginTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:20:13 INFO  LoginTest - Bắt đầu testcase: loginTest
+16:20:13 INFO  LoginTest - Test với username: phuoc1211, password: phuoc1211
+16:20:14 INFO  LoginTest - Inputed id: phuoc1211
+16:20:14 INFO  LoginTest - Inputed password: phuoc1211
+16:20:14 INFO  LoginTest - Clicked see password
+16:20:14 INFO  LoginTest - Clicked login button
+16:20:14 INFO  LoginTest - Wait to URL
+16:20:16 INFO  LoginTest - Login successful. Redirected to: https://dev.702prime.com/
+16:20:16 INFO  LoginTest - Kết quả mong đợi: Success
+16:20:20 INFO  LoginTest - Clicked logout button
+16:20:20 INFO  LoginTest - Test với username: phuoc1211, password: sai123
+16:20:21 INFO  LoginTest - Inputed id: phuoc1211
+16:20:21 INFO  LoginTest - Inputed password: sai123
+16:20:21 INFO  LoginTest - Clicked see password
+16:20:21 INFO  LoginTest - Clicked login button
+16:20:21 INFO  LoginTest - Wait to URL
+16:20:29 WARN  LoginTest - Không chuyển sang trang homepage trong thời gian chờ. Current URL: https://dev.702prime.com/login
+16:20:29 INFO  LoginTest - Kết quả mong đợi: Failed
+16:20:29 INFO  LoginTest - Test với username: saiuser, password: phuoc1211
+16:20:30 INFO  LoginTest - Inputed id: saiuser
+16:20:30 INFO  LoginTest - Inputed password: phuoc1211
+16:20:30 INFO  LoginTest - Clicked see password
+16:20:30 INFO  LoginTest - Clicked login button
+16:20:30 INFO  LoginTest - Wait to URL
+16:26:15 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:26:15 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:26:15 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:26:15 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:30:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:30:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:30:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:30:57 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:31:11 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:31:11 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:31:11 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+16:31:11 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+16:31:11 INFO  HeaderTest - Expected Result: Success
+16:31:11 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:31:12 INFO  HeaderTest - Click to the '신차장기렌트' button
+16:31:12 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/new-car
+16:31:12 INFO  HeaderTest - Expected Result: Success
+16:31:12 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:31:12 INFO  HeaderTest - Click to the '내차팔기' button
+16:31:13 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/sellMyCarHomePage
+16:31:13 INFO  HeaderTest - Expected Result: Success
+16:39:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:39:50 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:40:01 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:40:01 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:40:01 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+16:40:01 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+16:40:01 INFO  HeaderTest - Expected Result: Success
+16:40:01 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:40:01 INFO  HeaderTest - Click to the '신차장기렌트' button
+16:40:01 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/new-car
+16:40:01 INFO  HeaderTest - Expected Result: Success
+16:40:01 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:40:01 INFO  HeaderTest - Click to the '내차팔기' button
+16:40:02 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/sellMyCarHomePage
+16:40:02 INFO  HeaderTest - Expected Result: Success
+16:40:02 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:40:02 INFO  HeaderTest - Click to the '내차사기' button
+16:40:03 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+16:40:03 INFO  HeaderTest - Expected Result: Success
+16:46:45 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:46:45 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:46:50 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:46:50 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:46:54 INFO  HeaderTest - Click to the '702 care+ 소개' button
+16:46:54 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Care
+16:46:54 INFO  HeaderTest - Expected Result: Success
+16:46:54 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:46:54 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+16:46:55 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Prime
+16:46:55 INFO  HeaderTest - Expected Result: Success
+16:46:55 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:46:55 INFO  HeaderTest - Click to the '이벤트' button
+16:46:56 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/event-list
+16:46:56 INFO  HeaderTest - Expected Result: Success
+16:46:56 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:46:56 INFO  HeaderTest - Click to the '신차장기렌트' button
+16:46:56 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/new-car
+16:46:56 INFO  HeaderTest - Expected Result: Success
+16:46:56 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:46:56 INFO  HeaderTest - Click to the '내차팔기' button
+16:46:57 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/sellMyCarHomePage
+16:46:57 INFO  HeaderTest - Expected Result: Success
+16:46:57 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:46:57 INFO  HeaderTest - Click to the '내차사기' button
+16:46:59 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/used-car/product-list
+16:46:59 INFO  HeaderTest - Expected Result: Success
+16:52:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:52:30 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:52:35 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:52:36 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:52:40 INFO  HeaderTest - Click to the '702 care+ 소개' button
+16:52:40 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Care
+16:52:40 INFO  HeaderTest - Expected Result: Success
+16:52:40 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:52:40 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+16:52:40 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Prime
+16:52:40 INFO  HeaderTest - Expected Result: Success
+16:52:40 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:52:40 INFO  HeaderTest - Click to the '이벤트' button
+16:52:41 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/event-list
+16:52:41 INFO  HeaderTest - Expected Result: Success
+16:52:41 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+16:52:44 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:52:44 INFO  HeaderTest - Click to the '신차장기렌트' button
+16:52:45 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/new-car
+16:52:45 INFO  HeaderTest - Expected Result: Success
+16:52:45 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+16:52:48 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:52:48 INFO  HeaderTest - Click to the '내차팔기' button
+16:52:48 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/sellMyCarHomePage
+16:52:48 INFO  HeaderTest - Expected Result: Success
+16:52:48 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:52:48 INFO  HeaderTest - Click to the '내차사기' button
+16:52:49 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/used-car/product-list
+16:52:49 INFO  HeaderTest - Expected Result: Success
+20:14:28 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+20:14:28 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+20:14:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+20:14:43 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+20:14:48 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+20:14:48 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+20:14:52 INFO  HeaderTest - Click to the '702 care+ 소개' button
+20:14:57 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Care
+20:14:57 INFO  HeaderTest - Expected Result: Success
+20:14:57 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+20:14:57 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+20:14:57 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+20:14:57 INFO  HeaderTest - Expected Result: Success
+20:14:57 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+20:14:58 INFO  HeaderTest - Click to the '이벤트' button
+20:15:00 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/event-list
+20:15:00 INFO  HeaderTest - Expected Result: Success
+20:15:00 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+20:15:03 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+20:15:03 INFO  HeaderTest - Click to the '신차장기렌트' button
+20:15:03 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/new-car
+20:15:03 INFO  HeaderTest - Expected Result: Success
+20:15:03 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+20:15:06 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+20:15:06 INFO  HeaderTest - Click to the '내차팔기' button
+20:15:07 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/sellMyCarHomePage
+20:15:07 INFO  HeaderTest - Expected Result: Success
+20:15:07 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+20:15:07 INFO  HeaderTest - Click to the '내차사기' button
+20:15:09 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+20:15:09 INFO  HeaderTest - Expected Result: Success
+20:17:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+20:17:14 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+20:17:53 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+20:17:53 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+20:17:56 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+20:17:59 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+20:17:59 INFO  HeaderTest - Click to the '이벤트' button
+20:18:07 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+20:18:07 INFO  HeaderTest - Expected Result: Failed
+20:18:07 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+20:18:10 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+20:18:13 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+20:18:16 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+20:18:19 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+20:18:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+20:18:52 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+20:19:35 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+20:20:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+20:20:33 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+20:21:05 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+20:21:05 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+20:21:08 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+20:21:11 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+20:21:11 INFO  HeaderTest - Click to the '이벤트' button
+20:21:19 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+20:21:19 INFO  HeaderTest - Expected Result: Failed
+20:21:19 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+20:21:22 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+20:21:25 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+20:21:28 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+20:21:31 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+20:22:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+20:22:20 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+20:23:08 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+20:23:08 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+20:23:11 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+20:23:14 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+20:23:15 INFO  HeaderTest - Click to the '이벤트' button
+20:23:22 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+20:23:22 INFO  HeaderTest - Expected Result: Failed
+20:23:22 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+20:23:25 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+20:23:28 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+20:23:28 INFO  HeaderTest - Click to the '공지사항' button
+20:23:35 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+20:23:35 INFO  HeaderTest - Expected Result: Failed
+20:23:35 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+20:23:38 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+14:40:38 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:40:38 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:40:42 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:40:42 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+14:40:45 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+14:40:49 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+14:40:49 INFO  HeaderTest - Click to the '이벤트' button
+14:40:56 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:40:56 INFO  HeaderTest - Expected Result: Failed
+14:40:56 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+14:40:59 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+14:41:02 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+14:41:02 INFO  HeaderTest - Click to the '공지사항' button
+14:41:09 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:41:09 INFO  HeaderTest - Expected Result: Failed
+14:41:09 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+14:41:12 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+14:45:22 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:45:22 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:45:28 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:45:28 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+14:45:28 INFO  HeaderTest - Click to the '이벤트' button
+14:45:36 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:45:36 INFO  HeaderTest - Expected Result: Failed
+14:45:36 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+14:45:39 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+14:45:39 INFO  HeaderTest - Click to the '이벤트' button
+14:45:46 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:45:46 INFO  HeaderTest - Expected Result: Failed
+14:45:46 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+14:45:49 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+14:45:52 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+14:45:52 INFO  HeaderTest - Click to the '공지사항' button
+14:46:00 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:46:00 INFO  HeaderTest - Expected Result: Failed
+14:46:00 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+14:46:03 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+14:51:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:51:09 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:51:28 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:51:28 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+14:51:28 INFO  HeaderTest - Click to the '이벤트' button
+14:51:35 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:51:35 INFO  HeaderTest - Expected Result: Failed
+14:51:35 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+14:51:38 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+14:51:38 INFO  HeaderTest - Click to the '이벤트' button
+14:51:46 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:51:46 INFO  HeaderTest - Expected Result: Failed
+14:51:46 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+14:51:49 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+14:51:52 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+14:51:53 INFO  HeaderTest - Click to the '공지사항' button
+14:52:00 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+14:52:00 INFO  HeaderTest - Expected Result: Failed
+14:52:00 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+14:52:03 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+14:56:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:56:36 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:56:40 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:56:40 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:01:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:01:47 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:01:52 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:01:52 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:01:52 INFO  HeaderTest - Click to the '이벤트' button
+15:02:00 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:02:00 INFO  HeaderTest - Expected Result: Failed
+15:02:00 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:02:03 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:02:03 INFO  HeaderTest - Click to the '이벤트' button
+15:02:10 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:02:10 INFO  HeaderTest - Expected Result: Failed
+15:02:10 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:02:13 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:02:16 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:02:16 INFO  HeaderTest - Click to the '공지사항' button
+15:02:24 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:02:24 INFO  HeaderTest - Expected Result: Failed
+15:02:24 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:02:27 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:08:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:08:50 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:08:54 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:08:54 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:08:54 INFO  HeaderTest - Click to the '이벤트' button
+15:09:02 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:09:02 INFO  HeaderTest - Expected Result: Failed
+15:09:02 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:09:05 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:09:05 INFO  HeaderTest - Click to the '이벤트' button
+15:09:12 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:09:12 INFO  HeaderTest - Expected Result: Failed
+15:09:12 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:09:15 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:09:18 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:09:18 INFO  HeaderTest - Click to the '공지사항' button
+15:09:26 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:09:26 INFO  HeaderTest - Expected Result: Failed
+15:09:26 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:09:29 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:13:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:13:08 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:13:14 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:13:14 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:13:14 INFO  HeaderTest - Click to the '이벤트' button
+15:13:22 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:13:22 INFO  HeaderTest - Expected Result: Failed
+15:13:22 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:13:25 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:13:25 INFO  HeaderTest - Click to the '이벤트' button
+15:13:32 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:13:32 INFO  HeaderTest - Expected Result: Failed
+15:13:32 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:13:35 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:13:38 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:13:38 INFO  HeaderTest - Click to the '공지사항' button
+15:13:45 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:13:45 INFO  HeaderTest - Expected Result: Failed
+15:13:45 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:13:48 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:19:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:19:01 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:19:07 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:19:07 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:19:07 INFO  HeaderTest - Click to the '이벤트' button
+15:19:14 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:19:14 INFO  HeaderTest - Expected Result: Failed
+15:19:14 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:19:17 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:19:17 INFO  HeaderTest - Click to the '이벤트' button
+15:19:25 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:19:25 INFO  HeaderTest - Expected Result: Failed
+15:19:25 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:19:28 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:19:31 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:19:31 INFO  HeaderTest - Click to the '공지사항' button
+15:19:38 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:19:38 INFO  HeaderTest - Expected Result: Failed
+15:19:38 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:19:41 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:21:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:21:23 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:21:29 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:21:29 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:21:29 INFO  HeaderTest - Click to the '이벤트' button
+15:21:36 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:21:36 INFO  HeaderTest - Expected Result: Failed
+15:21:36 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:21:41 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:21:41 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:21:44 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:21:48 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:21:48 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:21:48 INFO  HeaderTest - Click to the '이벤트' button
+15:21:56 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:21:56 INFO  HeaderTest - Expected Result: Failed
+15:21:58 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:22:02 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:02 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:22:06 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:22:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:10 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:22:13 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:22:18 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:18 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:22:18 INFO  HeaderTest - Click to the '공지사항' button
+15:22:25 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:22:25 INFO  HeaderTest - Expected Result: Failed
+15:22:25 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:22:30 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:30 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:22:33 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:22:37 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:37 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:27:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:27:52 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:27:57 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:27:57 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:27:57 INFO  HeaderTest - Click to the '이벤트' button
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:27:59 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:28:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:28:01 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:28:06 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:28:06 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:30:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:30:00 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:30:04 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:30:04 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:30:55 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:30:55 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:31:00 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:31:00 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:36:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:36:24 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:36:30 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:36:30 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:40:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:40:15 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:40:20 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:40:20 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:42:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:42:14 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:42:20 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:42:20 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:46:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:46:08 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:46:14 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:46:14 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:14:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:14:15 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:14:21 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:14:21 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:14:21 INFO  HeaderTest - Click to the '이벤트' button
+16:14:28 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:14:28 INFO  HeaderTest - Expected Result: Failed
+16:14:29 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:14:33 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:14:33 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:14:53 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:14:57 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:14:57 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:14:58 INFO  HeaderTest - Click to the '이벤트' button
+16:15:05 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:15:05 INFO  HeaderTest - Expected Result: Failed
+16:15:05 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:15:09 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:15:09 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+16:15:29 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:15:33 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:15:33 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:15:54 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:15:58 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:15:58 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+16:15:58 INFO  HeaderTest - Click to the '공지사항' button
+16:16:05 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:16:05 INFO  HeaderTest - Expected Result: Failed
+16:16:05 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:16:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:16:10 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:16:30 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:16:33 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:16:33 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:17:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:17:35 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:17:41 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:17:41 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:19:05 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:19:05 INFO  HeaderTest - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:19:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:19:10 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:22:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:22:09 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:22:16 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:22:16 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:22:16 INFO  HeaderTest - Click to the '이벤트' button
+16:22:23 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:22:23 INFO  HeaderTest - Expected Result: Failed
+16:22:23 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:22:43 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:22:43 INFO  HeaderTest - Click to the '이벤트' button
+16:22:51 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:22:51 INFO  HeaderTest - Expected Result: Failed
+16:22:51 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+16:23:11 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:23:31 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+16:23:31 INFO  HeaderTest - Click to the '공지사항' button
+16:23:38 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:23:38 INFO  HeaderTest - Expected Result: Failed
+16:23:38 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:23:58 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:24:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:24:39 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:24:45 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:24:45 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:28:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:28:44 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:28:50 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:28:50 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:29:16 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:29:16 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:30:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:30:14 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:32:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:33:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:33:17 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:34:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:34:49 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:34:49 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:35:04 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:35:04 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:35:04 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+16:35:05 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Prime
+16:35:05 INFO  HeaderTest - Expected Result: Success
+16:35:13 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:35:13 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:35:13 INFO  HeaderTest - Click to the '이벤트' button
+16:35:21 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:35:21 INFO  HeaderTest - Expected Result: Failed
+16:35:30 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:35:30 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+16:36:05 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:36:05 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:36:16 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:36:16 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+16:36:16 INFO  HeaderTest - Click to the '공지사항' button
+16:36:24 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:36:24 INFO  HeaderTest - Expected Result: Failed
+16:36:40 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:36:40 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:37:21 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:37:21 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:43:10 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:43:18 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:43:18 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:44:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:44:29 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:44:29 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:44:30 INFO  HeaderTest - Click to the '이벤트' button
+16:44:37 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:44:37 INFO  HeaderTest - Expected Result: Failed
+16:44:42 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:44:42 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:44:51 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:44:51 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:44:51 INFO  HeaderTest - Click to the '이벤트' button
+16:44:53 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:44:53 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+16:44:56 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:44:56 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+16:44:58 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:44:58 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+16:45:01 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:45:01 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+16:45:04 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:45:04 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:47:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:47:39 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:47:39 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:48:10 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:48:17 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:48:17 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:52:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:52:44 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:52:44 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+17:53:54 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+17:54:00 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+17:54:00 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+17:54:05 INFO  HeaderTest - Click to the '내차사기' button
+17:54:06 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+17:54:06 INFO  HeaderTest - Expected Result: Success
+21:31:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:31:54 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:31:54 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+21:31:54 INFO  HeaderTest - Click to the '이벤트' button
+21:32:02 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+21:32:02 INFO  HeaderTest - Expected Result: Failed
+21:32:02 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+21:32:19 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+21:32:19 INFO  HeaderTest - Click to the '이벤트' button
+21:32:26 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+21:32:26 INFO  HeaderTest - Expected Result: Failed
+21:32:26 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+21:32:43 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+21:33:00 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+21:33:01 INFO  HeaderTest - Click to the '공지사항' button
+21:33:08 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+21:33:08 INFO  HeaderTest - Expected Result: Failed
+21:33:08 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+21:33:25 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:33:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:33:57 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:33:57 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:34:00 INFO  HeaderTest - Click to the '내차사기' button
+21:34:01 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+21:34:01 INFO  HeaderTest - Expected Result: Success
+21:34:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:34:23 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:34:23 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:37:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:37:07 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:37:07 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:37:11 INFO  HeaderTest - Click to the '내차사기' button
+21:37:12 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+21:37:12 INFO  HeaderTest - Expected Result: Success
+21:40:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:40:51 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:40:51 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:49:22 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:49:22 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+21:49:29 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:49:29 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:50:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:50:43 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+21:50:49 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:50:49 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:51:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:51:38 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+21:51:42 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:51:42 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:51:43 INFO  HeaderTest - Click to the '내차사기' button
+21:51:44 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+21:51:44 INFO  HeaderTest - Expected Result: Success
+21:51:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:51:59 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+21:52:04 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:52:04 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+21:52:04 INFO  HeaderTest - Click to the '이벤트' button
+21:52:12 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/event-list
+21:52:12 INFO  HeaderTest - Expected Result: Failed
+21:52:12 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+21:52:12 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+21:52:12 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+21:52:12 INFO  HeaderTest - Expected Result: Success
+21:52:12 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+21:52:12 INFO  HeaderTest - Click to the '이벤트' button
+21:52:12 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/event-list
+21:52:12 INFO  HeaderTest - Expected Result: Success
+21:52:12 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+21:52:30 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+21:52:30 INFO  HeaderTest - Click to the '신차장기렌트' button
+21:52:30 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/new-car
+21:52:30 INFO  HeaderTest - Expected Result: Success
+21:52:30 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+21:52:48 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+21:52:48 INFO  HeaderTest - Click to the '내차팔기' button
+21:52:48 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/sellMyCarHomePage
+21:52:48 INFO  HeaderTest - Expected Result: Success
+21:52:48 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+21:52:49 INFO  HeaderTest - Click to the '내차사기' button
+21:52:49 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+21:52:49 INFO  HeaderTest - Expected Result: Success
+21:53:56 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:54:01 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:54:01 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+21:54:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:54:30 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:54:30 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+21:59:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+21:59:19 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+21:59:19 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:00:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:00:15 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:00:15 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+22:00:15 INFO  HeaderTest - Click to the '이벤트' button
+22:00:22 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+22:00:22 INFO  HeaderTest - Expected Result: Failed
+22:00:22 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+22:00:40 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:00:40 INFO  HeaderTest - Click to the '이벤트' button
+22:00:47 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+22:00:47 INFO  HeaderTest - Expected Result: Failed
+22:00:47 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:00:50 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+22:01:08 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:01:11 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+22:01:28 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+22:07:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:07:50 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:07:50 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+22:07:50 INFO  HeaderTest - Click to the 'three dots' button
+22:07:50 INFO  HeaderTest - Click to the '내차사기' button
+22:07:51 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+22:07:51 INFO  HeaderTest - Expected Result: Success
+22:24:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:24:58 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:24:58 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+22:24:58 INFO  HeaderTest - Click to the 'hamburger menu' button
+22:24:59 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+22:25:00 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:25:01 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:25:02 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+22:25:03 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:25:04 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+22:25:05 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+22:26:12 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:26:16 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:26:16 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+22:26:16 INFO  HeaderTest - Click to the hamburger menu button
+22:26:17 INFO  HeaderTest - Click to the '내차사기' button
+22:26:18 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+22:26:18 INFO  HeaderTest - Expected Result: Success
+22:26:42 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:26:46 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:26:46 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+22:26:46 INFO  HeaderTest - Click to the hamburger menu button
+22:26:46 INFO  HeaderTest - Click to the '내차팔기' button
+22:26:47 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/sellMyCarHomePage
+22:26:47 INFO  HeaderTest - Expected Result: Success
+22:27:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:27:05 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:27:05 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+22:27:05 INFO  HeaderTest - Click to the hamburger menu button
+22:27:05 INFO  HeaderTest - Click to the '신차장기렌트' button
+22:27:06 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/new-car
+22:27:06 INFO  HeaderTest - Expected Result: Success
+22:27:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:27:23 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:27:23 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+22:27:23 INFO  HeaderTest - Click to the hamburger menu button
+22:27:24 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+22:27:25 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+22:27:25 INFO  HeaderTest - Expected Result: Success
+22:27:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:27:42 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:27:42 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+22:27:42 INFO  HeaderTest - Click to the hamburger menu button
+22:28:28 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:28:34 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:28:34 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+22:28:34 INFO  HeaderTest - Click to the hamburger menu button
+22:28:35 INFO  HeaderTest - Click to the '702 care+ 소개' button
+22:28:36 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Care
+22:28:36 INFO  HeaderTest - Expected Result: Success
+22:29:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:29:18 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:29:18 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:29:18 INFO  HeaderTest - Click to the hamburger menu button
+22:29:56 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:30:01 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:30:01 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:30:01 INFO  HeaderTest - Click to the hamburger menu button
+22:31:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:31:07 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:31:07 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:31:07 INFO  HeaderTest - Click to the hamburger menu button
+22:31:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:31:59 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:31:59 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:31:59 INFO  HeaderTest - Click to the hamburger menu button
+22:33:12 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:33:18 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:33:18 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+22:33:18 INFO  HeaderTest - Click to the hamburger menu button
+22:33:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:34:04 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:34:04 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:34:04 INFO  HeaderTest - Click to the hamburger menu button
+22:34:04 INFO  HeaderTest - Click to the '고객지원' button
+22:34:04 INFO  HeaderTest - Click to the '자주묻는 질문' button
+22:34:05 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/others/FAQ
+22:34:05 INFO  HeaderTest - Expected Result: Success
+22:34:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:34:24 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:34:25 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:34:25 INFO  HeaderTest - Click to the hamburger menu button
+22:34:25 INFO  HeaderTest - Click to the '고객지원' button
+22:35:05 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:35:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:35:10 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:35:10 INFO  HeaderTest - Click to the hamburger menu button
+22:39:27 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:39:31 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:40:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:40:08 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:40:09 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:40:12 INFO  HeaderTest - Click to the hamburger menu button
+22:40:46 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:40:51 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:40:51 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:40:51 INFO  HeaderTest - Click to the hamburger menu button
+22:41:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:41:28 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:41:28 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:41:28 INFO  HeaderTest - Click to the hamburger menu button
+22:41:28 INFO  HeaderTest - Click to the '고객지원' button
+22:41:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:41:57 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:41:57 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:41:57 INFO  HeaderTest - Click to the hamburger menu button
+22:41:57 INFO  HeaderTest - Click to the '고객지원' button
+22:42:05 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+22:42:05 INFO  HeaderTest - Expected Result: Failed
+22:42:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:42:54 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:42:54 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:42:54 INFO  HeaderTest - Click to the hamburger menu button
+22:42:55 INFO  HeaderTest - Click to the '고객지원' button
+22:43:02 WARN  HeaderTest - Cannot redirect. Still current URL: https://dev.702prime.com/
+22:43:02 INFO  HeaderTest - Expected Result: Failed
+22:43:10 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:43:16 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:43:16 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:43:16 INFO  HeaderTest - Click to the hamburger menu button
+22:51:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:52:05 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:52:05 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:52:05 INFO  HeaderTest - Click to the hamburger menu button
+22:52:05 INFO  HeaderTest - Click to the '고객지원' button
+22:52:05 INFO  HeaderTest - Click to the '자주묻는 질문' button
+22:52:06 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/others/FAQ
+22:52:06 INFO  HeaderTest - Expected Result: Success
+22:52:38 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:52:43 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:52:43 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:52:43 INFO  HeaderTest - Click to the hamburger menu button
+22:52:43 INFO  HeaderTest - Click to the '고객지원' button
+22:55:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:55:08 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:55:08 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:55:08 INFO  HeaderTest - Click to the hamburger menu button
+22:55:08 INFO  HeaderTest - Click to the '고객지원' button
+22:55:08 INFO  HeaderTest - Click to the '자주묻는 질문' button
+22:55:09 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/others/FAQ
+22:55:09 INFO  HeaderTest - Expected Result: Success
+22:57:38 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:57:44 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:57:44 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:57:44 INFO  HeaderTest - Click to the hamburger menu button
+22:58:55 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:59:01 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:59:01 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+22:59:01 INFO  HeaderTest - Click to the hamburger menu button
+22:59:01 INFO  HeaderTest - Click to the '고객지원' button
+22:59:01 INFO  HeaderTest - Click to the '자주묻는 질문' button
+22:59:02 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/others/FAQ
+22:59:02 INFO  HeaderTest - Expected Result: Success
+22:59:16 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+22:59:21 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+22:59:21 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+22:59:21 INFO  HeaderTest - Click to the hamburger menu button
+22:59:21 INFO  HeaderTest - Click to the '고객지원' button
+23:05:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:05:41 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:05:41 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+23:05:41 INFO  HeaderTest - Click to the hamburger menu button
+23:05:42 INFO  HeaderTest - Click to the '고객지원' button
+23:05:42 INFO  HeaderTest - Click to the '자주묻는 질문' button
+23:05:43 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/others/FAQ
+23:05:43 INFO  HeaderTest - Expected Result: Success
+23:05:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:05:55 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:05:55 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+23:05:55 INFO  HeaderTest - Click to the hamburger menu button
+23:05:55 INFO  HeaderTest - Click to the '고객지원' button
+23:31:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:31:34 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:31:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:31:55 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:34:02 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:34:08 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:34:08 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+23:34:08 INFO  HeaderTest - Click to the hamburger menu button
+23:34:09 INFO  HeaderTest - Click to the '내차사기' button
+23:34:10 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+23:34:10 INFO  HeaderTest - Expected Result: Success
+23:34:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:34:28 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:34:28 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+23:34:28 INFO  HeaderTest - Click to the hamburger menu button
+23:36:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:36:37 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:36:37 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+23:36:37 INFO  HeaderTest - Click to the hamburger menu button
+23:38:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:38:07 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+23:38:12 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:38:12 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+23:38:15 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+23:38:18 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+23:38:21 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+23:38:24 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+23:38:27 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+23:38:30 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+23:39:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:39:14 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+23:39:19 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:39:19 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+23:40:05 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:40:05 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+23:40:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:40:10 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+23:40:52 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:40:57 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:40:57 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+23:40:57 INFO  HeaderTest - Click to the hamburger menu button
+23:40:58 INFO  HeaderTest - Click to the '702 care+ 소개' button
+23:41:00 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Care
+23:41:00 INFO  HeaderTest - Expected Result: Success
+23:41:04 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:04 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+23:41:04 INFO  HeaderTest - Click to the hamburger menu button
+23:41:05 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+23:41:06 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+23:41:06 INFO  HeaderTest - Expected Result: Success
+23:41:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:10 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+23:41:11 INFO  HeaderTest - Click to the hamburger menu button
+23:41:32 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:32 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+23:41:32 INFO  HeaderTest - Click to the hamburger menu button
+23:41:32 INFO  HeaderTest - Click to the '고객지원' button
+23:41:32 INFO  HeaderTest - Click to the '자주묻는 질문' button
+23:41:33 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/others/FAQ
+23:41:33 INFO  HeaderTest - Expected Result: Success
+23:41:41 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:41 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+23:41:41 INFO  HeaderTest - Click to the hamburger menu button
+23:41:41 INFO  HeaderTest - Click to the '신차장기렌트' button
+23:41:42 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/new-car
+23:41:42 INFO  HeaderTest - Expected Result: Success
+23:41:47 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:47 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+23:41:47 INFO  HeaderTest - Click to the hamburger menu button
+23:41:47 INFO  HeaderTest - Click to the '고객지원' button
+23:41:53 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:53 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+23:41:53 INFO  HeaderTest - Click to the hamburger menu button
+23:41:54 INFO  HeaderTest - Click to the '내차팔기' button
+23:41:55 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/sellMyCarHomePage
+23:41:55 INFO  HeaderTest - Expected Result: Success
+23:41:59 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:41:59 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+23:41:59 INFO  HeaderTest - Click to the hamburger menu button
+23:42:00 INFO  HeaderTest - Click to the '내차사기' button
+23:42:01 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/used-car/product-list
+23:42:01 INFO  HeaderTest - Expected Result: Success
+23:43:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+23:43:28 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+23:43:28 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+23:43:28 INFO  HeaderTest - Click to the hamburger menu button
+11:38:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+11:38:53 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+11:38:53 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+11:38:53 INFO  HeaderTest - Click to the hamburger menu button
+11:38:54 INFO  HeaderTest - Click to the '702 care+ 소개' button
+11:38:55 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Care
+11:38:55 INFO  HeaderTest - Expected Result: Success
+11:39:17 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+11:39:17 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+11:39:17 INFO  HeaderTest - Click to the hamburger menu button
+11:39:17 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+11:39:18 INFO  HeaderTest - Redirected successfully. Current URL: https://dev.702prime.com/702Prime
+11:39:18 INFO  HeaderTest - Expected Result: Success
+11:39:49 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+11:39:49 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+11:39:49 INFO  HeaderTest - Click to the hamburger menu button
+11:40:01 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:57:56 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:58:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:58:49 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:58:49 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+14:58:57 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+14:58:57 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:00:14 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:02:38 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:02:38 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:02:45 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:02:45 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+15:02:47 INFO  HeaderTest - Click to the '내차사기' button
+15:02:48 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/used-car/product-list
+15:02:48 INFO  HeaderTest - Expected Result: Success
+15:09:54 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:09:55 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:10:02 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:10:02 INFO  HeaderTest - Bắt đầu testcase: sellMyCarHomePageBtn_Test
+15:10:03 INFO  HeaderTest - Click to the '내차팔기' button
+15:10:04 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/sellMyCarHomePage
+15:10:04 INFO  HeaderTest - Expected Result: Success
+15:11:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:11:03 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:11:10 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:11:10 INFO  HeaderTest - Bắt đầu testcase: newCarBtn_Test
+15:11:11 INFO  HeaderTest - Click to the '신차장기렌트' button
+15:11:12 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/new-car
+15:11:12 INFO  HeaderTest - Expected Result: Success
+15:11:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:11:17 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:11:23 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:11:23 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:11:25 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+15:11:25 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Prime
+15:11:25 INFO  HeaderTest - Expected Result: Success
+15:11:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:11:33 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:11:38 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:11:38 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:11:39 INFO  HeaderTest - Click to the '702 care+ 소개' button
+15:11:40 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Care
+15:11:40 INFO  HeaderTest - Expected Result: Success
+15:11:48 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:11:48 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:11:52 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:11:52 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+15:11:54 INFO  HeaderTest - Click to the '이벤트' button
+15:11:55 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/event-list
+15:11:55 INFO  HeaderTest - Expected Result: Success
+15:12:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:12:51 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:13:00 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:14:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:14:01 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:14:07 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:16:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:16:00 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:16:05 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:18:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:18:19 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:18:25 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:18:25 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:18:27 INFO  HeaderTest - Click to the '고객지원' button
+15:20:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:20:37 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:20:45 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:20:46 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:20:47 INFO  HeaderTest - Click to the '고객지원' button
+15:22:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:22:32 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:22:40 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:47 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:22:47 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:22:52 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:22:53 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:22:54 INFO  HeaderTest - Click to the '고객지원' button
+15:26:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:26:44 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+15:26:49 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:26:49 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:28:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:28:22 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:28:22 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:32:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:32:22 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:32:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:32:31 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:32:31 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+15:32:32 INFO  HeaderTest - Click to the '702 care+ 소개' button
+15:32:32 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Care
+15:32:32 INFO  HeaderTest - Expected Result: Success
+15:32:40 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:32:40 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+15:32:40 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+15:32:54 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:33:00 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:35:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:35:12 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:35:12 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:35:12 INFO  HeaderTest - Hover in '고객지원' button
+15:48:06 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:48:13 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:48:13 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:48:14 INFO  HeaderTest - Click to the '고객지원' button
+15:48:15 INFO  HeaderTest - Click to the '공지사항' button
+15:48:22 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/others/FAQ
+15:48:22 INFO  HeaderTest - Expected Result: Failed
+15:48:22 INFO  HeaderTest - Click to the '고객지원' button
+15:50:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:50:37 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:50:37 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:50:37 INFO  HeaderTest - Click to the '고객지원' button
+15:50:38 INFO  HeaderTest - Click to the '공지사항' button
+15:50:45 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:50:45 INFO  HeaderTest - Expected Result: Failed
+15:50:45 INFO  HeaderTest - Click to the '고객지원' button
+15:51:03 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:51:09 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:51:09 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:51:10 INFO  HeaderTest - Click to the '고객지원' button
+15:51:10 INFO  HeaderTest - Click to the '공지사항' button
+15:51:17 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+15:51:17 INFO  HeaderTest - Expected Result: Failed
+15:51:17 INFO  HeaderTest - Click to the '고객지원' button
+15:51:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:51:47 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:51:47 INFO  HeaderTest - Bắt đầu testcase: noticesBtn_Test
+15:51:47 INFO  HeaderTest - Click to the '고객지원' button
+15:51:48 INFO  HeaderTest - Click to the '공지사항' button
+15:51:48 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/others/notice
+15:51:48 INFO  HeaderTest - Expected Result: Success
+15:51:48 INFO  HeaderTest - Click to the '고객지원' button
+15:55:19 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:55:26 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:58:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:58:07 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+15:58:07 INFO  HeaderTest - Bắt đầu testcase: faqBtn_Test
+15:58:07 INFO  HeaderTest - Click to the '고객지원' button
+15:58:08 INFO  HeaderTest - Click to the '자주묻는 질문' button
+15:58:08 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/others/FAQ
+15:58:08 INFO  HeaderTest - Expected Result: Success
+16:12:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:12:36 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:12:36 INFO  HeaderTest - Bắt đầu testcase: myPageBtn_Test
+16:12:36 INFO  HeaderTest - Click to the '마이페이지' button
+16:12:43 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/login
+16:12:43 INFO  HeaderTest - Expected Result: Failed
+16:14:42 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:14:47 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:14:47 INFO  HeaderTest - Bắt đầu testcase: myPageBtn_Test
+16:14:47 INFO  HeaderTest - Click to the '마이페이지' button
+16:14:54 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/login
+16:14:54 INFO  HeaderTest - Expected Result: Failed
+16:16:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:16:24 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:16:24 INFO  HeaderTest - Bắt đầu testcase: usedCarBtn_Test
+16:16:24 INFO  HeaderTest - Click to the '내차사기' button
+16:16:25 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/used-car/product-list
+16:16:25 INFO  HeaderTest - Expected Result: Success
+16:16:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:16:38 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:16:38 INFO  HeaderTest - Bắt đầu testcase: 702CareBtn_Test
+16:16:38 INFO  HeaderTest - Click to the '702 care+ 소개' button
+16:16:39 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Care
+16:16:39 INFO  HeaderTest - Expected Result: Success
+16:16:43 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:16:43 INFO  HeaderTest - Bắt đầu testcase: 702PrimeBtn_Test
+16:16:43 INFO  HeaderTest - Click to the '코오롱 인증중고차 소개' button
+16:16:44 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/702Prime
+16:16:44 INFO  HeaderTest - Expected Result: Success
+16:16:48 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:16:48 INFO  HeaderTest - Bắt đầu testcase: eventBtn_Test
+16:16:48 INFO  HeaderTest - Click to the '이벤트' button
+16:16:49 INFO  HeaderTest - Redirected successfully. Current URL: https://qa.702prime.com/event-list
+16:16:49 INFO  HeaderTest - Expected Result: Success
+16:16:54 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:31:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:31:43 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:31:43 INFO  HeaderTest - Bắt đầu testcase: myPageBtn_Test
+16:31:43 INFO  HeaderTest - Click to the '마이페이지' button
+16:32:05 WARN  HeaderTest - Cannot redirect. Still current URL: https://qa.702prime.com/
+16:32:05 INFO  HeaderTest - Expected Result: Failed
+16:35:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:35:32 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:35:32 INFO  HeaderTest - Bắt đầu testcase: myPageBtn_Test
+16:35:33 INFO  HeaderTest - Click to the '마이페이지' button
+16:38:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:38:55 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+16:38:55 INFO  HeaderTest - Bắt đầu testcase: myPageBtn_Test
+16:38:55 INFO  HeaderTest - Click to the '마이페이지' button
