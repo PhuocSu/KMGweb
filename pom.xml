@@ -43,21 +43,12 @@
             <scope>test</scope>
         </dependency>
 
-        <!-- Cucumber Java -->
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-java</artifactId>
-            <version>7.15.0</version>
-            <scope>test</scope>
-        </dependency>
-        
-        <!-- Cucumber TestNG (nếu bạn dùng TestNG) -->
-        <dependency>
-            <groupId>io.cucumber</groupId>
-            <artifactId>cucumber-testng</artifactId>
-            <version>7.15.0</version>
-            <scope>test</scope>
-        </dependency>
+      <!-- https://mvnrepository.com/artifact/com.aventstack/extentreports -->
+      <dependency>
+        <groupId>com.aventstack</groupId>
+        <artifactId>extentreports</artifactId>
+        <version>5.1.1</version>
+      </dependency>
     
       <dependency>
         <groupId>org.scala-lang</groupId>

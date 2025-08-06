@@ -10,8 +10,8 @@ import java.util.Map;
 import java.util.concurrent.TimeoutException;
 import java.util.ArrayList;
 import java.util.HashMap;
+import static org.junit.Assert.assertTrue;
 import java.io.InputStream;
-
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
 import org.apache.poi.ss.usermodel.Sheet;
@@ -61,7 +61,7 @@ public class HeaderTest {
     //used-car Button
     @Test
     public void usedCarBtn_test() {
-        logger.info("Bắt đầu testcase: usedCarBtn_Test");
+        logger.info("Start testcase: usedCarBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement customerSupportBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='내차사기']")));
@@ -76,19 +76,14 @@ public class HeaderTest {
             isRedirected = false;
         }
         
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
     }
 
     //sellMyCarHomePage button
     @Test
     public void sellMyCarHomePageBtn_test() {
-        logger.info("Bắt đầu testcase: sellMyCarHomePageBtn_Test");
+        logger.info("Start testcase: sellMyCarHomePageBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement sellMyCarBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='내차팔기']")));
@@ -103,20 +98,15 @@ public class HeaderTest {
         } catch (org.openqa.selenium.TimeoutException e){
             isRedirected = false;
         }
-        
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
     }
 
     //new-car button
     @Test
     public void newCarBtn_test() {
-        logger.info("Bắt đầu testcase: newCarBtn_Test");
+        logger.info("Start testcase: newCarBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement newCarBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='신차장기렌트']")));
@@ -132,19 +122,14 @@ public class HeaderTest {
             isRedirected = false;
         }
         
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl()   );
     }
 
     //702Prime button
     @Test
     public void _702PrimeBtn_test() {
-        logger.info("Bắt đầu testcase: 702PrimeBtn_Test");
+        logger.info("Start testcase: 702PrimeBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement _702PrimeBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='코오롱 인증중고차 소개']")));
@@ -160,19 +145,14 @@ public class HeaderTest {
             isRedirected = false;
         }
         
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
     }
 
     //702Care button => here
     @Test
     public void _702CareBtn_test() {
-        logger.info("Bắt đầu testcase: 702CareBtn_Test");
+        logger.info("Start testcase: 702CareBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement _702CareBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='702 care+ 소개']")));
@@ -187,20 +167,14 @@ public class HeaderTest {
         } catch (org.openqa.selenium.TimeoutException e){
             isRedirected = false;
         }
-        
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
     }
 
     //Event button
     @Test
     public void eventBtn_test() {
-        logger.info("Bắt đầu testcase: eventBtn_Test");
+        logger.info("Start testcase: eventBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement eventBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='이벤트']")));
@@ -216,19 +190,14 @@ public class HeaderTest {
             isRedirected = false;
         }
         
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
     }
 
     //Frequently Asked Questions button
     @Test
     public void faqBtn_test() {
-        logger.info("Bắt đầu testcase: faqBtn_Test");
+        logger.info("Start testcase: faqBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement customerSupportBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='고객지원']")));
@@ -248,19 +217,14 @@ public class HeaderTest {
             isRedirected = false;
         }
 
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
     }
 
     //Notices button
     @Test
     public void noticesBtn_test() {
-        logger.info("Bắt đầu testcase: noticesBtn_Test");
+        logger.info("Start testcase: noticesBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement customerSupportBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//article[normalize-space(text())='고객지원']")));
@@ -281,22 +245,14 @@ public class HeaderTest {
             isRedirected = false;
         }
         
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
-        }
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
 
-        //Click the '고객지원' button again to close the menu
-        customerSupportBtn.click();
-        logger.info("Click to the '고객지원' button");
     }
 
     @Test
     public void myPageBtn_test() {
-        logger.info("Bắt đầu testcase: myPageBtn_Test");
+        logger.info("Start testcase: myPageBtn_Test");
 
         WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
         WebElement myPageBtn = wait.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[normalize-space(text())='마이페이지']")));
@@ -304,7 +260,7 @@ public class HeaderTest {
         logger.info("Click to the '마이페이지' button");
 
         WebDriverWait waitLoginRequiredBtn = new WebDriverWait(driver, Duration.ofSeconds(15));
-        // WebElement loginRequiredBtn = waitLoginRequiredBtn.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//buttonb[normalize-space(text())='로그인하러가기']")));
+        WebElement loginRequiredBtn = waitLoginRequiredBtn.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//button[.//article[text()='로그인하러가기']]")));
         loginRequiredBtn.click();
         logger.info("Click to the '로그인하러가기' button");
 
@@ -318,6 +274,8 @@ public class HeaderTest {
             isSignIn = false;
         }
 
+        driver.get("https://qa.702prime.com/myPage");
+
         //Wait to Url
         WebDriverWait waitUrl = new WebDriverWait(driver, Duration.ofSeconds(7));
         boolean isRedirected = false;
@@ -327,13 +285,57 @@ public class HeaderTest {
             isRedirected = false;
         }
         
-        if (isRedirected) {
-            logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Success");            
-        } else {
-            logger.warn("Cannot redirect. Still current URL: " + driver.getCurrentUrl());
-            logger.info("Expected Result: Failed");
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
+    }
+
+    @Test 
+    public void loginBtn_test(){
+        logger.info("Start testcase: loginBtn_Test");
+
+        WebDriverWait waitLoginBtn = new WebDriverWait(driver, Duration.ofSeconds(15));
+        WebElement loginBtn = waitLoginBtn.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[normalize-space(text())='로그인']")));
+        loginBtn.click();
+        logger.info("Clicked login button");
+
+        // Wait for login page to load
+        WebDriverWait waitUrl = new WebDriverWait(driver, Duration.ofSeconds(15));
+        boolean isRedirected = false;
+        try{
+            isRedirected = waitUrl.until(ExpectedConditions.urlContains("/login"));
+        } catch(org.openqa.selenium.TimeoutException e){
+            isRedirected = false;
         }
+
+        Assert.assertTrue(isRedirected, "Redirect failed. Current URL: " + driver.getCurrentUrl());
+        logger.info("Redirected successfully. Current URL: " + driver.getCurrentUrl());
+    }
+
+    @Test
+    public void logout_test() throws InterruptedException{
+        WebDriverWait waitLoginBtn = new WebDriverWait(driver, Duration.ofSeconds(15));
+        WebElement loginBtn = waitLoginBtn.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[normalize-space(text())='로그인']")));
+        loginBtn.click();
+        logger.info("Clicked login button");
+
+        signIn();
+
+        WebDriverWait waitLogoutBtn = new WebDriverWait(driver, Duration.ofSeconds(15));
+        WebElement logoutBtn = waitLogoutBtn.until(ExpectedConditions.elementToBeClickable(By.xpath("//a[normalize-space(text())='로그아웃']")));
+        logoutBtn.click();
+        logger.info("Clicked logout button");
+
+        WebDriverWait wait = new WebDriverWait(driver, Duration.ofSeconds(15));
+        boolean isLogoutBtnVisible = false;
+        try {
+            isLogoutBtnVisible = wait.until(ExpectedConditions.visibilityOfElementLocated(By.xpath("//a[normalize-space(text())='로그인']"))).isDisplayed();
+        } catch (org.openqa.selenium.TimeoutException e) {
+            isLogoutBtnVisible = false;
+        }
+
+        Assert.assertTrue(isLogoutBtnVisible, "Logout unsuccessfully. Current URL: " + driver.getCurrentUrl());
+        logger.info("Logout successfully. Current URL: " + driver.getCurrentUrl());
+
     }
 
     public void signIn(){
@@ -346,6 +348,7 @@ public class HeaderTest {
             WebElement loginButton = driver.findElement(By.xpath("//button[.//article[text()='로그인']]"));
             loginButton.click();
             logger.info("Clicked login button");
+
     }
 
     @AfterMethod
