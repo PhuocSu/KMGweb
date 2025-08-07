@@ -10,7 +10,6 @@ import java.util.Map;
 import java.util.concurrent.TimeoutException;
 import java.util.ArrayList;
 import java.util.HashMap;
-import static org.junit.Assert.assertTrue;
 import java.io.InputStream;
 import org.apache.poi.ss.usermodel.Workbook;
 import org.apache.poi.ss.usermodel.WorkbookFactory;
@@ -39,15 +38,13 @@ public class HeaderTest {
     @BeforeMethod
     public void setUp() {
 
-        // logger.info("Khởi tạo RemoteWebDriver tới Selenium Grid...");
-        // try {
-        //     driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), new ChromeOptions());
-        // } catch (MalformedURLException e) {
-        //     logger.error("URL is malformed", e);
-        //     throw new RuntimeException(e);
-        // }
-
-        driver = new ChromeDriver();    
+        logger.info("Khởi tạo RemoteWebDriver tới Selenium Grid...");
+        try {
+            driver = new RemoteWebDriver(new URL("http://localhost:4444/wd/hub"), new ChromeOptions());
+        } catch (MalformedURLException e) {
+            logger.error("URL is malformed", e);
+            throw new RuntimeException(e);
+        }
 
         driver.get("https://qa.702prime.com/"); 
         driver.manage().window().maximize();

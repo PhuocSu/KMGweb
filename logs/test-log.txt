@@ -1634,3 +1634,272 @@
 14:16:12 INFO  HeaderTest - Clicked login button
 14:16:15 INFO  HeaderTest - Clicked logout button
 14:16:15 INFO  HeaderTest - Logout successfully. Current URL: https://qa.702prime.com/
+11:08:59 INFO  LoginTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+11:16:18 INFO  LoginTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+11:57:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+11:57:07 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+11:57:25 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+11:57:25 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+11:57:30 INFO  Homepage - Bắt đầu testcase: HomepageTest
+11:59:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+11:59:29 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:10:08 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:10:08 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:10:16 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:10:31 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:10:31 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:10:37 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:20:12 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:20:12 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:20:17 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:21:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:21:39 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:21:45 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:24:30 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:24:30 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:24:36 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:24:36 INFO  Homepage - Accesseded menu
+13:24:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:24:39 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:24:43 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:25:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:25:32 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:26:32 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:26:32 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:26:37 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:35:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:35:44 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:35:50 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:40:13 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:40:13 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:40:16 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+13:40:16 INFO  HeaderTest - Start testcase: 702CareBtn_Test
+13:40:32 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:40:33 INFO  HeaderTest - Bắt đầu testcase: HeaderTest
+13:40:33 INFO  HeaderTest - Start testcase: 702PrimeBtn_Test
+13:41:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:41:29 INFO  Homepage - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:41:59 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:41:59 INFO  Homepage - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:42:16 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:42:16 INFO  Homepage - Khởi tạo RemoteWebDriver tới Selenium Grid...
+13:43:36 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:43:36 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:43:45 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:45:24 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:45:24 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:45:31 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:45:32 INFO  Homepage - Click to the '제조사' button
+13:45:33 INFO  Homepage - Click to the 'BMW' button
+13:45:33 INFO  Homepage - Click to the '조회' button
+13:49:49 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:49:49 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:49:55 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:49:55 INFO  Homepage - Clicked to the '제조사' button
+13:50:33 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:50:33 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:50:40 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:50:40 INFO  Homepage - Clicked to the '제조사' button
+13:50:40 INFO  Homepage - Clicked to the 'BMW' button
+13:50:40 INFO  Homepage - Clicked to the '조회' button
+13:51:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:51:17 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:51:22 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:51:23 INFO  Homepage - Clicked to the '제조사' button
+13:51:23 INFO  Homepage - Clicked to the 'BMW' button
+13:51:24 INFO  Homepage - Clicked to the '조회' button
+13:53:50 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:53:50 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:53:56 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:53:56 INFO  Homepage - Clicked to the '제조사' button
+13:53:57 INFO  Homepage - Clicked to the 'BMW' button
+13:57:37 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:57:37 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:57:43 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:57:44 INFO  Homepage - Clicked to the '제조사' button
+13:57:44 INFO  Homepage - Clicked to the 'BMW' button
+13:57:44 INFO  Homepage - Clicked to the '조회' button
+13:57:52 INFO  Homepage - Redirected successfully to the product list page. Current URL: https://qa.702prime.com/used-car/product-list?manufacturer=229&&model=undefined&&subModel=undefined
+13:59:07 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+13:59:07 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+13:59:13 INFO  Homepage - Bắt đầu testcase: HomepageTest
+13:59:13 INFO  Homepage - Clicked to the '제조사' button
+13:59:14 INFO  Homepage - Clicked to the 'BMW' button
+13:59:14 INFO  Homepage - Clicked to the '조회' button
+13:59:29 INFO  Homepage - Cannot redirect to the product list page
+14:01:18 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:01:18 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:01:26 INFO  Homepage - Bắt đầu testcase: HomepageTest
+14:01:26 INFO  Homepage - Clicked to the '제조사' button
+14:01:27 INFO  Homepage - Clicked to the 'BMW' button
+14:01:27 INFO  Homepage - Clicked to the '조회' button
+14:01:28 INFO  Homepage - Redirected successfully to the product list page. Current URL: https://qa.702prime.com/used-car/product-list?manufacturer=229&&model=undefined&&subModel=undefined
+14:02:57 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:02:57 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:03:02 INFO  Homepage - Bắt đầu testcase: HomepageTest
+14:03:03 INFO  Homepage - Clicked to the '제조사' button
+14:03:03 INFO  Homepage - Clicked to the 'BMW' button
+14:03:03 INFO  Homepage - Clicked to the '조회' button
+14:03:04 INFO  Homepage - Redirected successfully to the product list page. Current URL: https://qa.702prime.com/used-car/product-list?manufacturer=229&&model=undefined&&subModel=undefined
+14:32:01 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+14:32:01 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+14:32:09 INFO  Homepage - Bắt đầu testcase: HomepageTest
+14:32:10 INFO  Homepage - Clicked to the '제조사' button
+14:32:10 INFO  Homepage - Clicked to the 'BMW' button
+14:32:10 INFO  Homepage - Clicked to the '조회' button
+14:32:11 INFO  Homepage - Redirected successfully to the product list page. Current URL: https://qa.702prime.com/used-car/product-list?manufacturer=229&&model=undefined&&subModel=undefined
+14:32:12 INFO  Homepage - Found 1 car results
+15:00:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:00:00 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:00:06 INFO  Homepage - Bắt đầu testcase: HomepageTest
+15:00:07 INFO  Homepage - Clicked to the '제조사' button
+15:00:08 INFO  Homepage - Clicked to the 'BMW' button
+15:00:08 INFO  Homepage - Clicked to the '조회' button
+15:00:08 INFO  Homepage - Redirected successfully to the product list page. Current URL: https://qa.702prime.com/used-car/product-list?manufacturer=229&&model=undefined&&subModel=undefined
+15:00:09 INFO  Homepage - Found 29 car items
+15:56:48 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:56:48 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:56:57 INFO  Homepage - Bắt đầu testcase: HomepageTest
+15:57:43 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:57:43 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:57:50 INFO  Homepage - Bắt đầu testcase: HomepageTest
+15:59:23 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+15:59:23 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+15:59:31 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:03:51 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:03:51 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:04:00 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:05:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:05:35 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:05:44 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:05:44 INFO  HeaderTest - Khởi tạo RemoteWebDriver tới Selenium Grid...
+16:07:04 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:07:04 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:07:12 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:07:12 INFO  Homepage - Clicked to the '예산이 정해져있어요' button
+16:08:17 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:08:17 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:08:24 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:09:00 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:09:01 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:09:06 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:10:15 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:10:15 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:10:21 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:14:09 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:14:09 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:14:15 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:21:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:21:29 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:21:37 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:25:29 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:25:29 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:25:36 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:26:39 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:26:39 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:26:45 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:30:20 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:30:20 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:30:27 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:35:35 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:35:35 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:35:41 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:38:53 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:38:53 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:38:58 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:42:41 INFO  org.testng.internal.Utils - [TestNG] Running:
+  Command line suite
+
+16:42:41 INFO  Homepage - Khởi tạo WebDriver dùng chung cho toàn bộ test suite
+16:42:47 INFO  Homepage - Bắt đầu testcase: HomepageTest
+16:42:47 INFO  Homepage - Clicked to the '예산이 정해져있어요' button

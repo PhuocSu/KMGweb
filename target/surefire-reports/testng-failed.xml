@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Surefire suite]" verbose="0">
+  <test thread-count="5" name="Surefire test(failed)" verbose="0">
+    <classes>
+      <class name="FooterTest">
+        <methods>
+          <include name="privacyPolicyBtn_Test"/>
+          <include name="setUp"/>
+          <include name="aboutUsBtn_Test"/>
+          <include name="landingPageBtn_Test"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- FooterTest -->
+      <class name="HeaderTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="noticesBtn_test"/>
+          <include name="newCarBtn_test"/>
+          <include name="setUp"/>
+          <include name="myPageBtn_test"/>
+          <include name="sellMyCarHomePageBtn_test"/>
+          <include name="eventBtn_test"/>
+          <include name="_702CareBtn_test"/>
+          <include name="faqBtn_test"/>
+          <include name="logout_test"/>
+          <include name="loginBtn_test"/>
+          <include name="usedCarBtn_test"/>
+          <include name="_702PrimeBtn_test"/>
+        </methods>
+      </class> <!-- HeaderTest -->
+      <class name="LoginTest">
+        <methods>
+          <include name="tearDown"/>
+          <include name="setUp"/>
+          <include name="loginTest"/>
+        </methods>
+      </class> <!-- LoginTest -->
+    </classes>
+  </test> <!-- Surefire test(failed) -->
+</suite> <!-- Failed suite [Surefire suite] -->
